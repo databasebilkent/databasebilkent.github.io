@@ -5,7 +5,7 @@ tagline: database bilkent
 description: database bilkent
 ---
 
-[Project Proposal](https://pages.github.com) 
+[Project Proposal](https://drive.google.com/open?id=1QNBOsDpHTosGjFn6mKt4_N_Mm5CvePyC) 
 
 Group Members:
 - Hikmet Demir
